@@ -12,3 +12,5 @@ RPI &amp; Teensy 3.6 based Weather Monitor Device
 - UART CRC32 Master for Arduino ( weather info and position information)
 
 2) Arduino Side
+- wehather symbols using stepper motor, ws2812, small water pump
+- Serial slave from RPI
